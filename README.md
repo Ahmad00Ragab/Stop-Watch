@@ -3,6 +3,6 @@ Developing a system that control the stop-watch time and display it on 7-segment
 Drivers        : GPIO, Timer, External Interrupts and 7-Segement 
 Microcontroller: ATmega32.
 
-![Stop-Watch Simulation](./dancing-cat.gif)
+![Stop-Watch Simulation](./Capture.PNG)
 
 
