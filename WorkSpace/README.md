@@ -1,5 +1,5 @@
 
-# WorkSpace of the project created on Eclipse IDE
+# WorkSpace of the project created on Eclipse IDE and build using **avr-gcc** Compiler
 - **Includes:**
 - Source Files in 'src' Directory
 - Header Files in 'include' Directory
