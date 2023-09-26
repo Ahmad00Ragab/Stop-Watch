@@ -1,7 +1,7 @@
 /*===========================================================================================
  * Filename   : common_macros.h
  * Author     : Ahmad Haroun
- * Description: header file most common macros
+ * Description: header file for most common macros
  * Created on : Jun 12, 2023
  *==========================================================================================*/
 #ifndef COMMON_MACROS_H_
