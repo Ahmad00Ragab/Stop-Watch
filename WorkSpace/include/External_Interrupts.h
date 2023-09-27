@@ -1,7 +1,7 @@
 /*===========================================================================================
  * Filename   : External_Interrupts.h
  * Author     : Ahmad Haroun
- * Description: header file the Externa_Interrupts Driver
+ * Description: header file the ExternaL_Interrupts Driver
  * Created on : Jun 12, 2023
  *==========================================================================================*/
 
